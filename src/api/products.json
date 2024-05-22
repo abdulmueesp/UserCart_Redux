@@ -1,0 +1,18 @@
+
+[
+    {      
+        "id":1,
+        "title": "Phone Model F",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      },
+      {
+        "id":2,
+        "title": "Phone Model G",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      },
+      {
+         "id":3,
+        "title": "Phone Model H",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      }
+]
